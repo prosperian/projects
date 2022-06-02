@@ -93,7 +93,7 @@
 ### تکنولوژی های استفاده شده
 - اندروید
 - جاوا
-- معاماری MVC
+- معماری MVC
 - کتابخانه Room
 
 <details>
@@ -104,5 +104,20 @@
   <img align="right" width="200" height="400" src="https://user-images.githubusercontent.com/25820674/171621988-d963dbc3-5dd7-4c79-bea7-d312a019c10e.png">
 
 </details>
+<br clear="right"/>
+</br>
 
-
+## تعبیر خواب 
+- نمایش تعبیرهای مختلف رویا 
+### تکنولوژی های استفاده شده 
+- اندروید
+- جاوا
+- معماری MVC
+- دیتابیس SQLlite
+<details>
+<summary align="right">تصاویر</summary>
+  </br>
+  <img align="right" width="200" height="400" src="https://user-images.githubusercontent.com/25820674/171624609-eb891c8d-927d-4673-9f4e-e941d03bf7b4.png">
+  <img align="right" width="200" height="400" src="https://user-images.githubusercontent.com/25820674/171624680-2d224d22-bfbb-4184-b10f-042d21f6cdcb.png">
+</details>
+<br clear="left"/>
